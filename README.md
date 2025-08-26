@@ -4,6 +4,8 @@
 
 Bài toán phát hiện đối tượng với dữ liệu viễn thám có nhiều thách thức do số lượng lớp lớn, dữ liệu huấn luyện ít, đối tượng nhỏ và xuất hiện trong nhiều bối cảnh khác nhau. Trong thí nghiệm này, mô hình Faster R-CNN được lựa chọn để thử nghiệm theo hướng few-shot, với số lượng ảnh huấn luyện rất hạn chế.  
 
+Mô hình được train tại: https://www.kaggle.com/code/zephyrvn/dior-dataset
+
 ## 2. Mô hình và dữ liệu  
 
 - Mô hình: Faster R-CNN với backbone ResNet-50 FPN.  
